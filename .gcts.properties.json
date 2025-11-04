@@ -1,0 +1,20 @@
+{
+  "name": "itzelcastanedag-seidor_multiofftest",
+  "version": "1.0.0",
+  "description": "ItzelCastanedaG-Seidor_MultioffTest",
+  "repositoryLayout": {
+    "formatVersion": 5,
+    "format": "json",
+    "objectStorage": "plain",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false"
+  },
+  "configurations": [
+    {
+      "key": "CLIENT_VCS_LOGLVL",
+      "value": "info"
+    }
+  ]
+}
